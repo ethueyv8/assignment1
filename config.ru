@@ -1,2 +1,2 @@
-require './site'
+ require './site'
  run Sinatra::Application
